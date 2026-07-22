@@ -73,6 +73,26 @@ A full-stack appointment management system designed around real scheduling rules
 
 ---
 
+### SUPPORT2 Clinical Mortality Analysis
+
+A machine-learning workflow for cleaning, exploring, preprocessing, and modelling clinical mortality data.
+
+**Highlights**
+
+- data cleaning and validation;
+- missing-value handling;
+- exploratory data analysis;
+- categorical and numerical preprocessing;
+- Random Forest classification;
+- stratified validation;
+- metric comparison across optimization targets.
+
+**Stack:** Python · pandas · scikit-learn · Jupyter Notebook
+
+[View repository →](https://github.com/awmiryaw/support2-clinical-mortality-analysis)
+
+---
+
 ### Algorithms & Data Structures Visualizer
 
 An interactive browser application that turns core algorithms and data structures into step-by-step visual experiences.
@@ -109,26 +129,6 @@ A modular C application for processing, analyzing, and summarizing bike-sharing 
 **Stack:** C · CSV Processing · Data Structures · Modular Programming
 
 [View repository →](https://github.com/awmiryaw/bike-sharing-trip-analytics)
-
----
-
-### SUPPORT2 Clinical Mortality Analysis
-
-A machine-learning workflow for cleaning, exploring, preprocessing, and modelling clinical mortality data.
-
-**Highlights**
-
-- data cleaning and validation;
-- missing-value handling;
-- exploratory data analysis;
-- categorical and numerical preprocessing;
-- Random Forest classification;
-- stratified validation;
-- metric comparison across optimization targets.
-
-**Stack:** Python · pandas · scikit-learn · Jupyter Notebook
-
-[View repository →](https://github.com/awmiryaw/support2-clinical-mortality-analysis)
 
 ---
 
