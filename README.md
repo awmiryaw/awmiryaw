@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amir 👋
+# Ciao , its Amir
 
 ### Computer Engineering Student · Backend & Full-Stack Developer
 
