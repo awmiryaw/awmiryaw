@@ -187,7 +187,10 @@ I try to build projects around a few simple ideas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=awmiryaw&show_icons=true&hide_border=true&rank_icon=github" alt="Amir's GitHub statistics" />
+<img
+  src="https://streak-stats.demolab.com?user=awmiryaw&hide_border=true"
+  alt="Amir's GitHub contribution streak"
+/>
 
 </div>
 
