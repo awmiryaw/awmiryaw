@@ -203,7 +203,7 @@ I try to build projects around a few simple ideas:
 I am currently open to software engineering internship opportunities in backend, full-stack, and general software development.
 
 - **GitHub:** [github.com/awmiryaw](https://github.com/awmiryaw)
-- **LinkedIn:** [(https://www.linkedin.com/in/amir-yaghouti-89b96b266?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
+- **LinkedIn:** - **LinkedIn:** https://www.linkedin.com/in/amir-yaghouti-89b96b266/
 - **Email:** awmir.yaw@gmail.com
 - **Location:** Turin, Italy
 
