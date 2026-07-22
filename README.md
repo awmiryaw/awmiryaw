@@ -188,8 +188,8 @@ I try to build projects around a few simple ideas:
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=awmiryaw&hide_border=true"
-  alt="Amir's GitHub contribution streak"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=awmiryaw&show_icons=true&hide_border=true"
+  alt="Amir's GitHub statistics"
 />
 
 </div>
