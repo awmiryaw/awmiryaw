@@ -1,4 +1,4 @@
-# ciso, Im Amir 👾
+# Ciao, Im Amir 👾
 
 Computer Engineering student at Politecnico di Torino, focused on backend and full-stack software development.
 
